@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="org.example.MainTest" tests="4" failures="0" errors="0" time="0.123">
+        <testcase name="testDisplayWordWithGuessedLetters" classname="org.example.MainTest" time="0.012"/>
+        <testcase name="testDisplayWordWithNoGuessedLetters" classname="org.example.MainTest" time="0.034"/>
+        <testcase name="testIsValidGuess" classname="org.example.MainTest" time="0.021"/>
+        <testcase name="testDisplayWordWithPartialGuessedLetters" classname="org.example.MainTest" time="0.056"/>
+    </testsuite>
+</testsuites>
